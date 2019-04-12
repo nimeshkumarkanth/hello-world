@@ -1,0 +1,6 @@
+#include<stdio.h>
+#unclude<conio.h>
+void main()
+{ printf("hello world");
+return 0;
+}
